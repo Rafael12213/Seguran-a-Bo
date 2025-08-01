@@ -1,0 +1,14 @@
+{
+  "name": "seguranca-bot",
+  "version": "1.0.0",
+  "description": "Bot anti-spam e proteção para Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SeuNome",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
